@@ -1,11 +1,14 @@
 .top-bar {
-  color: $nav-text;
   background-color: $nav-bckgn;
+  color: $nav-text;
   ul {
     background-color: transparent;
   }
   .menu-text a {
     display: inline;
     padding: 0;
+  }
+  .active-link {
+    font-weight: 600;
   }
 }
