@@ -1,1 +1,1 @@
-Boilerplate React App (from the course made by Andrew Mead)
+Timer React App (from the course made by Andrew Mead)
